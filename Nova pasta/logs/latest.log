@@ -1,0 +1,265 @@
+[15:15:22] [Server thread/INFO]: Loading properties
+[15:15:22] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:15:23] [Server thread/INFO]: Debug logging is disabled
+[15:15:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:15:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[15:15:23] [Server thread/INFO]: Generating keypair
+[15:15:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:23] [Server thread/INFO]: Using default channel type
+[15:15:23] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:15:23] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.9.0-SNAPSHOT
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] *********************************************
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] 
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] VOCÊ ESTÁ RODANDO UMA VERSÃO NÃO SUPORTADA DO JOGO!
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] O Geyser não funciona versão de seu servidor como um plugin e requer que você execute pelo menos 1.13.2 em seu servidor, ou que você execute o Geyser de forma independente através de um proxy como Bungeecord ou Velocity.
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] 
+[15:15:23] [Server thread/WARN]: [Geyser-Spigot] *********************************************
+[15:15:23] [Server thread/INFO]: [playit-gg] Loading playit-gg v0.1.4
+[15:15:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:15:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:15:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:15:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:15:23] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:15:23] [Server thread/INFO]: Preparing level "world"
+[15:15:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:15:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:15:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:15:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:15:24] [Server thread/INFO]: View Distance: 10
+[15:15:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:15:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:15:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:15:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:15:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:15:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:15:24] [Server thread/INFO]: Structure Info Saving: true
+[15:15:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:15:24] [Server thread/INFO]: Max TNT Explosions: 100
+[15:15:24] [Server thread/INFO]: Random Lighting Updates: false
+[15:15:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:15:24] [Server thread/INFO]: Mob Spawn Range: 4
+[15:15:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:15:24] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:15:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:15:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:15:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:15:24] [Server thread/INFO]: View Distance: 10
+[15:15:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:15:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:15:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:15:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:15:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:15:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:15:24] [Server thread/INFO]: Structure Info Saving: true
+[15:15:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:15:24] [Server thread/INFO]: Max TNT Explosions: 100
+[15:15:24] [Server thread/INFO]: Random Lighting Updates: false
+[15:15:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:15:24] [Server thread/INFO]: Mob Spawn Range: 4
+[15:15:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:15:24] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:15:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:15:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:15:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:15:24] [Server thread/INFO]: View Distance: 10
+[15:15:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:15:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:15:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:15:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:15:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:15:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:15:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:15:24] [Server thread/INFO]: Structure Info Saving: true
+[15:15:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:15:24] [Server thread/INFO]: Max TNT Explosions: 100
+[15:15:24] [Server thread/INFO]: Random Lighting Updates: false
+[15:15:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:15:24] [Server thread/INFO]: Mob Spawn Range: 4
+[15:15:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:15:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3681935184344827031)
+[15:15:26] [Server thread/INFO]: Preparing spawn area: 3%
+[15:15:27] [Server thread/INFO]: Preparing spawn area: 77%
+[15:15:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3681935184344827031)
+[15:15:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3681935184344827031)
+[15:15:28] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.0-SNAPSHOT
+[15:15:28] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.0-SNAPSHOT
+[15:15:28] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[15:15:28] [Thread-6/INFO]: secret key found, checking
+[15:15:28] [Thread-6/INFO]: check secret
+[15:15:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:15:28] [Server thread/INFO]: Done (4,909s)! For help, type "help" or "?"
+[15:15:30] [Thread-6/INFO]: found minecraft java tunnel: friend-variation.gl.joinmc.link
+[15:15:30] [Thread-6/INFO]: keys and tunnel setup
+[15:15:30] [Thread-6/INFO]: [21m[4mplayit.gg:[m tunnel setup[m
+
+[15:15:30] [Thread-6/INFO]: [21m[4mplayit.gg:[m friend-variation.gl.joinmc.link[m
+
+[15:15:30] [Thread-6/INFO]: request queued, waiting 1 second before resend
+[15:15:57] [User Authenticator #1/INFO]: UUID of player Logs is 46d585c0-3678-3626-b2fb-f5abf1399bf2
+[15:15:57] [Server thread/INFO]: Logs[/[0:0:0:0:0:0:0:1]:57237] logged in with entity id 248 at ([world]41.5, 63.0, 249.5)
+[15:15:58] [Server thread/INFO]: Logs issued server command: /gamemode 1 Logs
+[15:16:15] [Server thread/INFO]: Opped Logs
+[15:17:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[15:17:06] [Server thread/INFO]: [Server] suruba
+[15:17:36] [Server thread/INFO]: Logs lost connection: Timed out
+[15:17:36] [Server thread/INFO]: Logs left the game
+[15:18:11] [User Authenticator #2/INFO]: UUID of player Logs is 46d585c0-3678-3626-b2fb-f5abf1399bf2
+[15:18:11] [Server thread/INFO]: Logs[/[0:0:0:0:0:0:0:1]:57248] logged in with entity id 530 at ([world]41.5, 63.0, 249.5)
+[15:18:12] [Server thread/INFO]: Logs issued server command: /gamemode 1 Logs
+[15:18:12] [Server thread/INFO]: [Logs: Set own game mode to Creative Mode]
+[15:19:02] [Thread-6/INFO]: got new client: NewClient{connectAddr=147.185.221.212:33536, peerAddr=45.7.57.130:34130, claimAddress=69.9.179.2:43784, claimToken=[44, 0, 108, -109, -71, -35, -44, -125, 0, 45, 7, 57, -126, -123, 82, -120, -2, -123, 107, -85, 8, 105, 26, 21, -106, 0, 0, 0, 0, 0, 24, -34, -72, 0, 0, 0, 0, 0, 78, -22, 40, 0, 0, 0, 0, 0, 38, -94, -6, -38, 70, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 38, 37, 0, -44, 2, 30, 102, 114, 105, 101, 110, 100, 45, 118, 97, 114, 105, 97, 116, 105, 111, 110, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, -125, 0, 1, 7, 10, -85, 106, 69, -45, -108, 90, 111, -16, 110, 65, -78, -34, 99, 104], tunnelServerId=4, dataCenterId=20}
+[15:19:02] [Thread-6/INFO]: starting tcp tunnel for client
+[15:19:02] [Thread-6/INFO]: start connection to /69.9.179.2:43784 to claim client
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: connected to tunnel server, sending claim token
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: claim token sent
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: connection to tunnel server has been established
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=null, PacketSplitter=null, PacketDecoder=null, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=null, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=null, CraftServer=null}
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[15:19:02] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[15:19:02] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[15:19:05] [Thread-6/INFO]: got new client: NewClient{connectAddr=147.185.221.212:33536, peerAddr=45.7.57.130:38225, claimAddress=69.9.179.2:43784, claimToken=[44, 0, 108, -109, -71, -35, -44, -125, 0, 45, 7, 57, -126, -107, 81, -107, -88, -27, 88, -85, 8, 105, 26, 21, -103, 0, 0, 0, 0, 0, 24, -34, -72, 0, 0, 0, 0, 0, 78, -22, 40, 0, 0, 0, 0, 0, 38, -94, -6, 81, 51, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 38, 37, 0, -44, 2, 30, 102, 114, 105, 101, 110, 100, 45, 118, 97, 114, 105, 97, 116, 105, 111, 110, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, -125, 0, 2, 88, -37, 9, 22, 18, -72, -16, -57, 103, -80, 69, 52, -95, 37, 67, 22], tunnelServerId=4, dataCenterId=20}
+[15:19:05] [Thread-6/INFO]: starting tcp tunnel for client
+[15:19:05] [Thread-6/INFO]: start connection to /69.9.179.2:43784 to claim client
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=null, PacketSplitter=null, PacketDecoder=null, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=null, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=null, CraftServer=null}
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[15:19:05] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[15:19:05] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[15:19:05] [User Authenticator #3/INFO]: UUID of player luizotavio7171 is b01e5336-ed1f-30c7-82bd-f8ab21764bf1
+[15:19:05] [Server thread/INFO]: luizotavio7171[/127.0.0.1:57256] logged in with entity id 596 at ([world]44.5, 62.0, 264.5)
+[15:19:25] [Async Chat Thread - #0/INFO]: <luizotavio7171> ola[m
+
+[15:19:32] [Thread-6/INFO]: send keep alive
+[15:19:44] [Thread-6/INFO]: send keep alive
+[15:20:01] [Async Chat Thread - #0/INFO]: <luizotavio7171> Funcionou[m
+
+[15:20:37] [Async Chat Thread - #0/INFO]: <luizotavio7171> aaa[m
+
+[15:20:43] [Async Chat Thread - #0/INFO]: <luizotavio7171> Testando som[m
+
+[15:21:37] [Async Chat Thread - #0/INFO]: <luizotavio7171> surubinha[m
+
+[15:21:47] [Async Chat Thread - #0/INFO]: <luizotavio7171> aaaaaaa[m
+
+[15:21:59] [Async Chat Thread - #0/INFO]: <luizotavio7171> 〔🔴〕Call 01[m
+
+[15:22:17] [Async Chat Thread - #0/INFO]: <luizotavio7171> [m
+
+[15:22:24] [nioEventLoopGroup-2-3/WARN]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1108) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:345) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:545) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:499) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:22:24] [nioEventLoopGroup-2-3/WARN]: failed to send data to tunnel
+[15:22:24] [Server thread/INFO]: luizotavio7171 lost connection: Disconnected
+[15:22:24] [Server thread/INFO]: luizotavio7171 left the game
+[15:23:33] [Thread-6/INFO]: send keep alive
+[15:23:45] [Thread-6/INFO]: send keep alive
+[15:27:35] [Thread-6/INFO]: send keep alive
+[15:27:47] [Thread-6/INFO]: send keep alive
+[15:31:36] [Thread-6/INFO]: send keep alive
+[15:31:48] [Thread-6/INFO]: send keep alive
+[15:35:38] [Thread-6/INFO]: send keep alive
+[15:35:50] [Thread-6/INFO]: send keep alive
+[15:39:39] [Thread-6/INFO]: send keep alive
+[15:39:51] [Thread-6/INFO]: send keep alive
+[15:43:40] [Thread-6/INFO]: send keep alive
+[15:43:53] [Thread-6/INFO]: send keep alive
+[15:47:42] [Thread-6/INFO]: send keep alive
+[15:47:54] [Thread-6/INFO]: send keep alive
+[15:51:43] [Thread-6/INFO]: send keep alive
+[15:51:55] [Thread-6/INFO]: send keep alive
+[15:55:45] [Thread-6/INFO]: send keep alive
+[15:55:57] [Thread-6/INFO]: send keep alive
+[15:59:46] [Thread-6/INFO]: send keep alive
+[15:59:58] [Thread-6/INFO]: send keep alive
+[16:03:48] [Thread-6/INFO]: send keep alive
+[16:04:00] [Thread-6/INFO]: send keep alive
+[16:07:49] [Thread-6/INFO]: send keep alive
+[16:08:01] [Thread-6/INFO]: send keep alive
+[16:11:50] [Thread-6/INFO]: send keep alive
+[16:12:02] [Thread-6/INFO]: send keep alive
+[16:15:52] [Thread-6/INFO]: send keep alive
+[16:16:04] [Thread-6/INFO]: send keep alive
+[16:19:53] [Thread-6/INFO]: send keep alive
+[16:20:05] [Thread-6/INFO]: send keep alive
+[16:23:55] [Thread-6/INFO]: send keep alive
+[16:24:07] [Thread-6/INFO]: send keep alive
+[16:27:57] [Thread-6/INFO]: send keep alive
+[16:28:09] [Thread-6/INFO]: send keep alive
+[16:31:58] [Thread-6/INFO]: send keep alive
+[16:32:10] [Thread-6/INFO]: send keep alive
+[16:35:59] [Thread-6/INFO]: send keep alive
+[16:36:11] [Thread-6/INFO]: send keep alive
+[16:40:01] [Thread-6/INFO]: send keep alive
+[16:40:13] [Thread-6/INFO]: send keep alive
+[16:44:02] [Thread-6/INFO]: send keep alive
+[16:44:14] [Thread-6/INFO]: send keep alive
+[16:48:04] [Thread-6/INFO]: send keep alive
+[16:48:16] [Thread-6/INFO]: send keep alive
+[16:52:05] [Thread-6/INFO]: send keep alive
+[16:52:17] [Thread-6/INFO]: send keep alive
+[16:56:07] [Thread-6/INFO]: send keep alive
+[16:56:19] [Thread-6/INFO]: send keep alive
+[17:00:08] [Thread-6/INFO]: send keep alive
+[17:00:20] [Thread-6/INFO]: send keep alive
+[17:04:10] [Thread-6/INFO]: send keep alive
+[17:04:22] [Thread-6/INFO]: send keep alive
+[17:08:11] [Thread-6/INFO]: send keep alive
+[17:08:23] [Thread-6/INFO]: send keep alive
+[17:12:13] [Thread-6/INFO]: send keep alive
+[17:12:25] [Thread-6/INFO]: send keep alive
+[17:16:14] [Thread-6/INFO]: send keep alive
+[17:16:26] [Thread-6/INFO]: send keep alive
+[17:20:15] [Thread-6/INFO]: send keep alive
+[17:20:28] [Thread-6/INFO]: send keep alive
+[17:24:17] [Thread-6/INFO]: send keep alive
+[17:24:29] [Thread-6/INFO]: send keep alive
+[17:28:18] [Thread-6/INFO]: send keep alive
+[17:28:30] [Thread-6/INFO]: send keep alive
+[17:32:20] [Thread-6/INFO]: send keep alive
+[17:32:32] [Thread-6/INFO]: send keep alive
